@@ -1,32 +1,4 @@
-//Recherchez la méthode .split() sur MDN et/ou Google.
-// (chatGPT et IA interdit, c'est pour vous apprendre à chercher et lire de la doc !)
-// Déclarez une variable contenant un mot et
-// utilisez la méthode split dessus.
-// N'oubliez pas le console.log !
-// mot = "salem";
-// let splits = mot.split("");
-// console.log(splits);
-
-// Faites des recherches dans les mêmes conditions pour la 
-// méthode .reverse()
-// Déclarez à nouveau une variable contenant un mot,
-// utilisez la méthode split puis la méthode reverse dessus.
-// N'oubliez pas de console.log, ce sera encore plus 
-// // parlant de console.log avant ET après la méthode reverse !
-// mot = "trick or treat";
-// splits = mot.split("");
-// console.log(splits);
-
-// let reversed = splits.reverse();
-// console.log(reversed);
-
-// let joined = reversed.join("");
-// console.log(joined);
-
-
-//Maintenant que vous maîtrisez les 3 méthodes .split(), 
-// .reverse(), .join(),
-// écrivez une fonction qui prend en paramètre un mot 
+// Ecrivez une fonction qui prend en paramètre un mot 
 // et vérifie si c'est un palindrome.
 function palindrome(mot){
 //    let splits = mot.split("");

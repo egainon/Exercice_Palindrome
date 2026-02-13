@@ -1,4 +1,4 @@
-#JPalindromes
+#Palindromes
 
 Petit exercice en JavaScript permettant de détecter si un mot ou une chaîne de caractères est un palindrome.
 Un palindrome est une suite de caractères qui se lit de la même manière dans les deux sens.
